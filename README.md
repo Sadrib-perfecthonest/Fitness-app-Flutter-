@@ -52,19 +52,19 @@ FlexFit is a fitness app that tracks your remaining kcal, protein, carbs, and fa
 ## Screenshots
 
 ### Splash Screen
-![FlexFit splash screen](https://github.com/your-username/your-repository/blob/main/assets/screenshot1.jpeg?raw=true)
+![FlexFit splash screen](assets/screenshot1.jpeg?raw=true)
 *Splash Screen - The opening screen of the app.*
 
 ### Home Screen
-![FlexFit Home screen](https://github.com/your-username/your-repository/blob/main/assets/screenshot2.jpeg?raw=true)
+![FlexFit Home screen](assets/screenshot2.jpeg?raw=true)
 *Home Screen - The main dashboard of the app where users can see their progress.*
 
 ### Meal Recommendations
-![FlexFit Meals that recommended screen by clicking picture](https://github.com/your-username/your-repository/blob/main/assets/screenshot3.jpeg?raw=true)
+![FlexFit Meals that recommended screen by clicking picture](assets/screenshot3.jpeg?raw=true)
 *Meal Recommendations Screen - Displays meals based on the user's remaining calories.*
 
 ### Workout Screen
-![FlexFit Workout by clicking buttons below Workout text](https://github.com/your-username/your-repository/blob/main/assets/screenshot4.jpeg?raw=true)
+![FlexFit Workout by clicking buttons below Workout text](/assets/screenshot4.jpeg?raw=true)
 *Workout Screen - Displays workouts that users can start by clicking on buttons below.*
 
 
