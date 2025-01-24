@@ -50,10 +50,10 @@ FlexFit is a fitness app that tracks your remaining kcal, protein, carbs, and fa
 - Cloud syncing for data persistence across multiple devices.
 
 ## Screenshots
-![FlexFit splash screen](assets/screenshot1.png)
-![FlexFit Home screen](assets/screenshot2.png)
-![FlexFit Meals that recommeded screen by clicking picture](assets/screenshot3.png)
-![FlexFit Workout by clicking buttons below Workout text ](assets/screenshot4.png)
+![FlexFit splash screen](assets/screenshot1.jpeg)
+![FlexFit Home screen](assets/screenshot2.jpeg)
+![FlexFit Meals that recommeded screen by clicking picture](assets/screenshot3.jpeg)
+![FlexFit Workout by clicking buttons below Workout text ](assets/screenshot4.jpeg)
 
 
 
