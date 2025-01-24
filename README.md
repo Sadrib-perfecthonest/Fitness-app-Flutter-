@@ -61,11 +61,11 @@ FlexFit is a fitness app that tracks your remaining kcal, protein, carbs, and fa
 
 ### Meal Recommendations
 ![FlexFit Meals that recommended screen by clicking picture](assets/screenshot3.jpeg?raw=true)
-#Meal Recommendations Screen - Displays meals based on the user's remaining calories.
+## Meal Recommendations Screen - Displays meals based on the user's remaining calories.
 
 ### Workout Screen
 ![FlexFit Workout by clicking buttons below Workout text](/assets/screenshot4.jpeg?raw=true)
-#Workout Screen - Displays workouts that users can start by clicking on buttons below.
+## Workout Screen - Displays workouts that users can start by clicking on buttons below.
 
 
 
