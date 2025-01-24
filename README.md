@@ -53,7 +53,7 @@ FlexFit is a fitness app that tracks your remaining kcal, protein, carbs, and fa
 
 ### Splash Screen
 ![FlexFit splash screen](assets/screenshot1.jpeg?raw=true)
-**Splash Screen - The opening screen of the app.*
+*Splash Screen - The opening screen of the app.\n*
 
 ### Home Screen
 ![FlexFit Home screen](assets/screenshot2.jpeg?raw=true)
