@@ -398,7 +398,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                   ),
                                   child: Column(
                                     crossAxisAlignment:
-                                        CrossAxisAlignment.start,
+                                        CrossAxisAlignment.stretch,
                                     children: <Widget>[
                                       SizedBox(
                                         width: 20,
@@ -410,25 +410,14 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                           "YOUR NEXT WORKOUT",
                                           style: TextStyle(
                                             color: Colors.black,
-                                            fontSize: 14,
+                                            fontSize: 18,
                                             fontWeight: FontWeight.w600,
                                           ),
                                         ),
                                       ),
                                       Padding(
                                         padding: const EdgeInsets.only(
-                                            top: 4.0, left: 16),
-                                        child: Text(
-                                          fetchedWorkouts.isNotEmpty
-                                              ? fetchedWorkouts[0][
-                                                  "name"] // Display the first workout name
-                                              : "No Workouts Available",
-                                          style: const TextStyle(
-                                            color: Colors.black,
-                                            fontSize: 20,
-                                            fontWeight: FontWeight.w800,
-                                          ),
-                                        ),
+                                            top: 2.0, left: 16),
                                       ),
                                       Expanded(
                                         child: Row(
@@ -459,7 +448,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                                 child: Image.asset(
                                                   "assets/chest.png",
                                                   width: 50,
-                                                  height: 50,
+                                                  height: 60,
                                                   color: Colors.white,
                                                 ),
                                               ),
@@ -490,7 +479,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                                 child: Image.asset(
                                                   "assets/back.png",
                                                   width: 50,
-                                                  height: 50,
+                                                  height: 60,
                                                   color: Colors.white,
                                                 ),
                                               ),
@@ -521,7 +510,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                                 child: Image.asset(
                                                   "assets/biceps.png",
                                                   width: 50,
-                                                  height: 50,
+                                                  height: 60,
                                                   color: Colors.white,
                                                 ),
                                               ),
