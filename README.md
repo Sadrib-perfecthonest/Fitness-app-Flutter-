@@ -75,4 +75,4 @@ FlexFit is a fitness app that tracks your remaining kcal, protein, carbs, and fa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flexfit.git
+   https://github.com/Sadrib-perfecthonest/Fitness-app-Flutter-.git
